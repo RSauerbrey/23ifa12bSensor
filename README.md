@@ -1,3 +1,7 @@
 # 23ifa12bSensor
 
-Experimental...
+Beispiele für
+* Assoziation
+* Aggregation
+* Komposition
+* Polymorphie mit Schlüsselwort "virtual"
