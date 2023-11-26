@@ -16,5 +16,8 @@ int main()
     //Dashboard löschen, Sensor wird im Destruktor des Dashboard zerstört => Komposition
     delete d;
 
+    cout << "Ende Komposition" << endl;
+
+    return 0;
 
 }

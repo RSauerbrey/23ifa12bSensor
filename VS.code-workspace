@@ -1,11 +1,23 @@
 {
     "folders": [
         {
-            "path": "."
+            "path": "ifa12bSensorAssoziation"
+        },
+        {
+            "path": "ifa12bSensorAggregation"
+        },
+        {
+            "path": "ifa12bSensorKomposition"
+        },
+        {
+            "path": "ifa12bSensorVirtual"
         }
     ],
     "launch": {
         "version": "0.2.0",
-        "configurations": []
+        "configurations": [
+            
+
+        ]
     }
 }

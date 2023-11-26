@@ -2,13 +2,6 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "(lldb) Anfügen",
-      "type": "cppdbg",
-      "request": "attach",
-      "program": "${workspaceFolder}/ifa12bSensor",
-      "MIMode": "lldb"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
